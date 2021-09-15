@@ -1,9 +1,9 @@
-### Olá, sou Anderson Viana!!
+  <h1 align=center>Olá, sou Anderson Viana!!</h1>
 
  <div>
   <a href="https://github.com/andersonv16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonv16&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonv16&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=andersonv16&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonv16&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,8 +19,11 @@
   <a href="https://www.linkedin.com/in/anderson-viana-644226179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
- Me formei em Ciências contábeis em Dezembro de 2018.
+ 
+🎓 Me formei em Ciências contábeis em Dezembro de 2018.
 
-Trabalhei por 4 anos na área administrativa/financeira, desenvolvendo atividades de registros contábeis e analise de demonstrações financeiras
+🛠️ Trabalhei por 4 anos na área administrativa/financeira, desenvolvendo atividades de registros contábeis e análise de demonstrações financeiras
 
-Comecei a estudar Analise e desenvolvimento de sistemas para alinhar a contabilidade com a área de TI.
+💻 Comecei a estudar Analise e desenvolvimento de sistemas para alinhar a contabilidade com a área de TI.
+ 
+<img height="300" width="900"  src="https://media.giphy.com/media/Q9aBxHn9fTqKs/source.gif?cid=ecf05e474uw9j3j5ox2d7rcl5qbs2pscx3h2o5myv8j9kyfx&rid=source.gif&ct=g">
