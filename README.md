@@ -22,10 +22,12 @@
 </div>
 <br>
  
-🎓 Primeira formação concluída em Ciências contábeis no ano de 2018.
+
 
 🛠️ Trabalhei por 4 anos na área administrativa/financeira, desenvolvendo atividades de registros contábeis e análise de demonstrações financeiras, além de um período trabalhando com apoio em auditoria das demonstrações finaceiras, usando recursos e tecnologias da área de TI.
-
+  
+🎓 Primeira formação concluída em Ciências contábeis no ano de 2018.  
+  
 💻 Comecei a estudar Analise e desenvolvimento de sistemas para alinhar a contabilidade com a área de TI e no caminho me apaixonei por Desenvolvimento Web.
  
 <img height="500" width="1000"  src="https://media.giphy.com/media/Q9aBxHn9fTqKs/source.gif?cid=ecf05e474uw9j3j5ox2d7rcl5qbs2pscx3h2o5myv8j9kyfx&rid=source.gif&ct=g">
