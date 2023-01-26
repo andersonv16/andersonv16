@@ -26,7 +26,7 @@
 </div>
  <br>
  
-    <h1 align=center>Um pouco mais sobre mim!!</h1>
+    <h2 align=center>Um pouco mais sobre mim!!</h2>
 🛠️ Trabalhei por 4 anos na área administrativa/financeira, desenvolvendo atividades de registros contábeis e análise de demonstrações financeiras, além de um período trabalhando com apoio em auditoria das demonstrações financeiras, usando recursos e tecnologias da área de TI.
   
 🎓 Primeira formação concluída em Ciências contábeis no ano de 2018.  
