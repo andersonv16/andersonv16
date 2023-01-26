@@ -15,18 +15,18 @@
   <img align=center height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonv16&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   <br>
-    <h1 align=center>Principais Tecnologias utilizadas!!</h1>
+    <h1 align=center>Principais Tecnologias!!</h1>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Anderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Anderson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Anderson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="center" alt="Anderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Anderson-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Anderson-HTML"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Anderson-CSS"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Anderson-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Anderson-Java"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Anderson-React"  height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
  <br>
  
-
+    <h1 align=center>Um pouco mais sobre mim!!</h1>
 🛠️ Trabalhei por 4 anos na área administrativa/financeira, desenvolvendo atividades de registros contábeis e análise de demonstrações financeiras, além de um período trabalhando com apoio em auditoria das demonstrações financeiras, usando recursos e tecnologias da área de TI.
   
 🎓 Primeira formação concluída em Ciências contábeis no ano de 2018.  
