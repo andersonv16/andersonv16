@@ -1,4 +1,4 @@
-  <h1 color="dark-blue" align=center>Olá, sou Anderson Viana!!</h1>
+  <h1 style = " color: dark-blue" align=center>Olá, sou Anderson Viana!!</h1>
 
  <div>
   <a href="https://github.com/andersonv16">
